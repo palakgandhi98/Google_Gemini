@@ -1,7 +1,5 @@
 # Google Gemini Pro Vision
 
-### Boston House Pricing Prediction
-
 ### Software And Tools Requirements
 
 1. [Github Account](https://github.com/palakgandhi98)
