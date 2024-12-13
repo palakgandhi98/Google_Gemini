@@ -1,7 +1,5 @@
 # Google Gemini Pro Vision
 
-This project leverages the power of Google Gemini Pro for [briefly describe the project's goal, e.g., building a conversational AI, performing image recognition, etc.].
-
 ## Software and Tools Requirements
 
 To run this project, you'll need the following:
