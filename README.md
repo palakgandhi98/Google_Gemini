@@ -1,21 +1,40 @@
 # Google Gemini Pro Vision
 
-### Software And Tools Requirements
+This project leverages the power of Google Gemini Pro for [briefly describe the project's goal, e.g., building a conversational AI, performing image recognition, etc.].
 
-1. [Github Account](https://github.com/palakgandhi98)
-2. [DagsHub](https://dagshub.com/palakgandhi98/MLProject)
-3. [Hugging Face](https://huggingface.co/palakgandhi)
-4. [HerokuAccount](https://heroku.com)
-5. [VSCodeIDE](https://code.visualstudio.com/)
-6. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+## Software and Tools Requirements
 
-Create a new environment
+To run this project, you'll need the following:
 
+1. **Accounts:**
+    * [GitHub Account](https://github.com/palakgandhi98)
+    * [DagsHub](https://dagshub.com/palakgandhi98/MLProject)
+    * [Hugging Face](https://huggingface.co/palakgandhi)
+    * [Heroku Account](https://heroku.com) 
+2. **Software:**
+    * [VS Code IDE](https://code.visualstudio.com/)
+    * [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+
+## Setting up the Environment
+
+1. **Create a new virtual environment:**
+
+```bash
+conda create -p venv .venv python=3.11.7
 ```
-conda create -p venv python==3.11.7 -y
+
+2. **Activate the virtual environment:**
+
+```bash
+conda activate .venv
 ```
 
-MLFLOW_TRACKING_URI=https://dagshub.com/apgandhi98/MLProject.mlflow \
-MLFLOW_TRACKING_USERNAME=apgandhi98 \
-MLFLOW_TRACKING_PASSWORD=d222176e3144a49528619bb099863efc55eacd70 \
-python script.py
+3. **Install required packages:**
+
+```bash
+pip install -r requirements.txt
+python==3.11.7 -y
+```
+MLFLOW_TRACKING_URI=https://dagshub.com/apgandhi98/MLProject.mlflow
+MLFLOW_TRACKING_USERNAME=apgandhi98
+MLFLOW_TRACKING_PASSWORD=
