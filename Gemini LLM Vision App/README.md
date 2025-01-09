@@ -1,6 +1,7 @@
 # Gemini LLM Vision App 📸🤖
 
-![Gemini LLM Vision App](https://github.com/user-attachments/assets/55f877a2-dffc-4a32-a185-7505b6d92110)
+![Gemini LLM Vision App](https://github.com/user-attachments/assets/d2d635c6-f4b5-4355-b8bf-70e657682ccb)
+
 
 ## Overview 📜
 
@@ -22,8 +23,8 @@ This project demonstrates how to use Google's Gemini Generative AI model to anal
 
 ### 1. Clone the Repository 📦
 ```sh
-git clone https://github.com/palakgandhi98/Gemini LLM App.git
-cd Gemini LLM App
+git clone https://github.com/palakgandhi98/Gemini LLM Vision App.git
+cd Gemini LLM Vision App
 ```
 
 ### 2. Install Dependencies 📦
@@ -54,7 +55,7 @@ Open your web browser and go to `http://localhost:8501` to access the applicatio
 
 ## File Structure 📁
 ```
-Gemini LLM App/
+Gemini LLM Vision App/
 │
 ├── .env
 ├── vision.py
