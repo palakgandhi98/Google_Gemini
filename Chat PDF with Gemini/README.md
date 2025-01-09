@@ -21,8 +21,8 @@ This project is a Streamlit application designed to allow users to chat with mul
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/palakgandhi98/Google_Gemini/Chat PDF with Google Gemini
+   cd Chat PDF with Google Gemini
    ```
 
 2. Install the required dependencies:
