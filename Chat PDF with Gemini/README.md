@@ -1,6 +1,7 @@
 # Chat PDF with Google Gemini 🚀
 
-![Screenshot 2025-01-09 192516](https://github.com/user-attachments/assets/aa799eef-3719-41a2-8c5f-bc49489afaec)
+![Screenshot 2025-01-09 192516](https://github.com/user-attachments/assets/0f220604-f9cc-4380-af8b-ef4a75a76d2d)
+
 
 This project is a Streamlit application designed to allow users to chat with multiple PDF documents using Google's Gemini AI 🤖. The application leverages LangChain for handling document processing, embeddings, and conversational chains.
 
