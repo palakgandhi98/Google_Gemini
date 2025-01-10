@@ -30,43 +30,43 @@ This project contains various chat applications built using the Google Gemini AP
 
 ### App 1:Chat PDF with Google Gemini
 - **Description**:This project is a Streamlit application designed to allow users to chat with multiple PDF documents using Google's Gemini AI 🤖. The application leverages LangChain for handling document processing, embeddings, and conversational chains.
-- **Location**: [Chat PDF with Google Gemini](https://github.com/palakgandhi98/Google_Gemini/tree/main/Gemini%20Chat%20With%20Multiple%20PDF)
-- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/Gemini%20Chat%20With%20Multiple%20PDF/README.md)
+- **Location**: [Chat PDF with Google Gemini](https://github.com/palakgandhi98/Google_Gemini/tree/main/Chat%20PDF%20with%20Gemini)
+- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/Chat%20PDF%20with%20Gemini/README.md)
 
 ### App 2: Q&A Demo with Google Gemini Pro Model
 - **Description**: This is a simple Q&A application built using Streamlit and the Google Gemini Pro model. The app allows users to ask questions and receive responses from the Gemini Pro model. The chat history is maintained using Streamlit's session state, providing context for ongoing conversations.
-- **Location**: [Q&A Demo with Google Gemini Pro Model](https://github.com/palakgandhi98/Google_Gemini/tree/main/Gemini%20Converstional%20Q%26A%20App)
-- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/Gemini%20Converstional%20Q%26A%20App/README.md)
+- **Location**: [Q&A Demo with Google Gemini Pro Model](https://github.com/palakgandhi98/Google_Gemini/tree/main/Q%26A%20Demo%20with%20Google%20Gemini%20Pro%20Model)
+- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/Q%26A%20Demo%20with%20Google%20Gemini%20Pro%20Model/README.md)
 
 ### App 3: Gemini LLM Vision App
 - **Description**: This project demonstrates how to use Google's Gemini Generative AI model to analyze and generate responses based on images. The application is built using Streamlit for the front-end interface and integrates with Google's Gemini API for generative AI capabilities.
-- **Location**: [Gemini LLM Vision App](https://github.com/palakgandhi98/Google_Gemini/tree/main/Gemini%20LLM%20App)
-- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/Gemini%20LLM%20App/README.md)
+- **Location**: [Gemini LLM Vision App](https://github.com/palakgandhi98/Google_Gemini/tree/main/Gemini%20LLM%20Vision%20App)
+- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/Gemini%20LLM%20Vision%20App/README.md)
 
 ### App 4: Smart ATS
 - **Description**: Smart ATS is a Streamlit application designed to help job seekers improve their resumes by evaluating them against job descriptions. The application utilizes the Google Gemini API to provide insights and suggestions based on the latest trends and requirements in the tech field, including software engineering, data science, data analysis, and big data engineering.
-- **Location**: [Smart ATS](https://github.com/palakgandhi98/Google_Gemini/tree/main/Gemini%20Resume%20ATS)
-- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/blob/main/Gemini%20Resume%20ATS/README.md)
+- **Location**: [Smart ATS](https://github.com/palakgandhi98/Google_Gemini/tree/main/Smart%20ATS)
+- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/Smart%20ATS/README.md)
 
 ### App 5: Gemini Text to SQL
 - **Description**: Gemini Text to SQL is a Streamlit application that uses Google Gemini Pro to convert natural language questions into SQL queries and retrieve data from a SQLite database. This application serves as a convenient way to interact with a database using plain English.
 - **Location**: [Gemini Text to SQL](https://github.com/palakgandhi98/Google_Gemini/tree/main/Gemini%20Text%20to%20SQL)
-- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/blob/main/Gemini%20Text%20to%20SQL/README.md)
+- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/Gemini%20Text%20to%20SQL/README.md)
 
 ### App 6: Health Management App
 - **Description**: The Health Management App is a web application built using Streamlit and the Google Gemini Vision API. This app allows users to upload an image of their food, and it will provide a detailed breakdown of the calorie count for each food item, along with nutritional insights.
-- **Location**: [Health Management App](https://github.com/palakgandhi98/Google_Gemini/tree/main/HealthApp)
-- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/HealthApp/README.md)
+- **Location**: [Health Management App](https://github.com/palakgandhi98/Google_Gemini/tree/main/Health%20Management%20App)
+- **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/Health%20Management%20App/README.md)
 
 ### App 7: Multilanguage Invoice Extractor
 - **Description**: The Multilanguage Invoice Extractor is a Streamlit application that utilizes Google's Gemini Pro Vision model to extract and understand information from invoice images. This tool is designed to help users quickly get insights from invoices in various languages by simply uploading an image of the invoice and asking questions about it.
-- **Location**: [Multilanguage Invoice Extractor](https://github.com/palakgandhi98/Google_Gemini/tree/main/Invoice%20Extractor)
--  **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/Invoice%20Extractor/README.md)
+- **Location**: [Multilanguage Invoice Extractor](https://github.com/palakgandhi98/Google_Gemini/tree/main/Multilanguage%20Invoice%20Extractor)
+-  **Usage**: [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/Multilanguage%20Invoice%20Extractor/README.md)
 
 ### App 8: YouTube Video Transcript Summarizer
 - **Description**: This project is a Streamlit application that allows users to input a YouTube video URL and get a summarized version of the video transcript. The summarization is powered by Google's Gemini Pro model, which ensures the summaries are concise and informative.
-- **Location**: [YouTube Video Transcript Summarizer](https://github.com/palakgandhi98/Google_Gemini/tree/main/YouTube%20Transcribe%20Summerizer)
-- **Usage**:  [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/YouTube%20Transcribe%20Summerizer/README.md)
+- **Location**: [YouTube Video Transcript Summarizer](https://github.com/palakgandhi98/Google_Gemini/tree/main/YouTube%20Video%20Transcript%20Summarizer)
+- **Usage**:  [README.md](https://github.com/palakgandhi98/Google_Gemini/tree/main/YouTube%20Video%20Transcript%20Summarizer/README.md)
   
 ## Features 🌟
 
